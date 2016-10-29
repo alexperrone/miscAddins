@@ -1,0 +1,9 @@
+Package: miscAddins
+Type: Package
+Title: Misc addins for RStudio
+Version: 0.1.0
+Author: Alex Perrone
+Maintainer: Alex Perrone <alexperrone@gmail.com>
+Description: Misc addins for RStudio
+License: GPL3
+LazyData: TRUE

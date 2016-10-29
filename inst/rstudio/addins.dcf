@@ -1,0 +1,4 @@
+Name: Insert align
+Description: Inserts `begin{align*}`, newline, then `end{align*}` (LaTeX)
+Binding: insertAlignAddin
+Interactive: false
